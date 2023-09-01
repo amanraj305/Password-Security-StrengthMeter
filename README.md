@@ -1,7 +1,4 @@
 # ExoPassword - Password Strength Analysis
-
-![ExoPassword.](/static/exo.png "This is a sample image.")
-
 Analyze the strength of your passwords in one click!
 
 To ensure correctness of our results, we output the strength of the password using four different Machine Learning models.
