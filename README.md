@@ -9,9 +9,6 @@ The models used are:
 * Decision Tree
 * Multi Layer Perceptron Network
 
-
-The web application is live on http://exo.owaspvit.com/
-
 ## Installation
 * Install requirements.txt;
 ```
