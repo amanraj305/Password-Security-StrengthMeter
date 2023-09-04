@@ -13,14 +13,8 @@ The models used are:
 * Multi Layer Perceptron Network
 
 
-The web application is live on http://exo.owaspvit.com/
 
 ## Installation
-
-* Clone the project into your PC:
-```
-git clone https://github.com/mayanktolani19/PasswordStrengthAnalysis.git
-```
 
 * Install requirements.txt;
 ```
